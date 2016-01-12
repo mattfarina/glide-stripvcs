@@ -1,0 +1,20 @@
+hash: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+updated: 2016-01-12T18:35:16.568191403-05:00
+imports:
+- name: github.com/codegangsta/cli
+  version: c31a7975863e7810c92e2e288a9ab074f9a88f29
+- name: github.com/Masterminds/cookoo
+  version: 78aa11ce75e257c51be7ea945edb84cf19c4a6de
+  subpackages:
+  - .
+- name: github.com/Masterminds/glide
+  version: 4662222efe9dca7accf3f1443b1ba6f035e620f1
+  subpackages:
+  - cfg
+- name: github.com/Masterminds/semver
+  version: 513f3dcb3ecfb1248831fb5cb06a23a3cd5935dc
+- name: github.com/Masterminds/vcs
+  version: eaee272c8fa4514e1572e182faecff5be20e792a
+- name: gopkg.in/yaml.v2
+  version: f7716cbe52baa25d2e9b0d0da546fcf909fc16b4
+devImports: []

@@ -1,0 +1,8 @@
+package: github.com/mattfarina/glide-stripvcs
+import:
+- package: github.com/Masterminds/glide
+  version: ~0.8.0
+  subpackages:
+  - cfg
+- package: github.com/Masterminds/vcs
+  version: ^1.2.0
